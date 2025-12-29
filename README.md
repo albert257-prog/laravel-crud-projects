@@ -46,9 +46,9 @@ Code snippet
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=your_database_name
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
+DB_DATABASE=app
+DB_USERNAME=root
+DB_PASSWORD=
 6. Run Migrations
 Create the necessary database tables:
 
